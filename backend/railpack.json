@@ -3,12 +3,23 @@
     "php": "8.4.10"
   },
   "buildAptPackages": [
+    "build-essential",
+    "autoconf",
+    "libtool",
     "bison",
     "re2c",
     "pkg-config",
+    "libxml2-dev",
+    "libsqlite3-dev",
+    "libssl-dev",
     "libcurl4-openssl-dev",
+    "libpng-dev",
+    "libjpeg-dev",
+    "libwebp-dev",
+    "libfreetype6-dev",
     "libonig-dev",
     "libzip-dev",
-    "libsodium-dev"
+    "libsodium-dev",
+    "libreadline-dev"
   ]
 }
