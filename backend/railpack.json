@@ -2,6 +2,9 @@
   "packages": {
     "php": "8.4.10"
   },
+  "aptPackages": [
+    "libpq5"
+  ],
   "buildAptPackages": [
     "build-essential",
     "autoconf",
@@ -21,6 +24,7 @@
     "libonig-dev",
     "libzip-dev",
     "libsodium-dev",
-    "libreadline-dev"
+    "libreadline-dev",
+    "libpq-dev"
   ]
 }
