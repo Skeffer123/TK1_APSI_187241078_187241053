@@ -1,5 +1,9 @@
 {
   "packages": {
     "php": "8.4.10"
-  }
+  },
+  "buildAptPackages": [
+    "bison",
+    "re2c"
+  ]
 }
