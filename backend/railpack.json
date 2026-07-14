@@ -17,6 +17,7 @@
     "libjpeg-dev",
     "libwebp-dev",
     "libfreetype6-dev",
+    "libgd-dev",
     "libonig-dev",
     "libzip-dev",
     "libsodium-dev",
